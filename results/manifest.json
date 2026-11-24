@@ -1,0 +1,14 @@
+{
+  "kind": "synthetic simulation",
+  "n": 1000,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "training_seed": 90001,
+  "python": "3.15.2",
+  "deadline": 0.8
+}
